@@ -40,4 +40,5 @@ Para compilar o revisar el documento original:
 
 ## Autores
 * **Gabriela Soto**
-* 
+
+  
